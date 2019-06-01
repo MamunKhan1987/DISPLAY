@@ -1,0 +1,146 @@
+*{}
+body{}
+header{
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{width: 30%;float: left;}
+.logo img{
+}
+.social-icon{
+    width: 70%;
+    float: right;
+    position: relative;
+}
+.social-icon nav{}
+.social-icon nav ul{
+    text-align: right;
+}
+.social-icon nav ul li{
+    padding-right: 0;
+}
+.social-icon nav ul li a{
+}
+.social-icon nav ul li a img{
+}
+hr{
+    width: 100%;
+}
+nav{
+}
+nav ul{padding: 0;}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 25px;
+}
+nav ul li a{
+    color: #727272;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.4s;
+    display: block;
+    padding: 10px 0px;
+}
+.banner{
+    background: url(../images/bannerbg.jpg);
+    min-height: 500px;
+}
+}
+.monitor{}
+.monitor img{display: block;margin: auto;transform: translateY(90px);}
+.about{
+    background: #ffffff;
+    text-align: center;
+    padding: 100px 300px;
+}
+.about p{
+    color: #b9b9b9;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.6;
+} 
+.about a{
+    font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #2dcc70;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.btn{}
+.btn a{}
+.video-section{
+    background-color: #E5E5E5;
+    padding: 40px 0px;
+}
+.video{}
+.video img{
+    width: 30%;
+    float: left;
+}
+.video-content{
+    width: 60%;
+    float: left;
+    padding: 0px 50px;
+    margin: -18px 0px;
+}
+.video-content h1{color: #7B7B7B;}
+.video-content p{
+    color: #7B7B7B;
+}
+.findout-section{background-color: #464c52;padding: 20px 0px;}
+.findout-section h1{
+    color: white;
+    float: left;
+}
+.findout-section a{
+    font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #2dcc70;
+    padding: 10px 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    float: right;
+}
+footer{
+    background: #E5E5E5;
+    padding: 6px;
+}
+.Copyritht{
+    width: 50%;
+    float: left;
+}
+.Copyritht p{
+    font-size: 11px;
+    color: #7B7B7B;
+}
+.footer-menu{
+    width: 50%;
+    float: left;
+}
+.footer-menu ul{
+    float: right;
+    margin: 5px;
+}
+.footer-menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+.footer-menu ul li a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 11px;
+    color: #7B7B7B;
+}
+
+
